@@ -1,0 +1,16 @@
+.containe{
+    margin: auto;
+    margin-left: 35%;
+    background-image: url('4567367.jpg');
+    background-repeat: no-repeat;
+    background-size: cover
+}
+.display{
+    display: flex;
+}
+.left{
+    margin-left: 8%;
+}
+.center{
+    margin-left: 20%
+}
