@@ -1,48 +1,124 @@
+body{
+    background-color: black;
+}
 .background{
     margin: auto;
     background-image: url('4567367.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    width: 35%;
-    height: 98vh;
+    width: 40%;
+    height: 110vh;
     
 }
 .containe{
     margin: auto;
     margin-left: 5%;
-    padding-top: 20%;
-    
+    padding-top: 5%;   
 }
 .display{
     display: flex;
 }
 .left{
-    margin-left: 8%;
+    margin-left: 5%;
 }
 .center{
-    margin-left: 35%
+    margin-left: 35%;
+    position: relative;
+    bottom: 70px;
 }
 .number{
     color: white;
-    font-size: 40px;
+    font-size: 30px;
     font-weight: bold;
     position: relative;
-    left: 45px;
-    bottom: 70px;
+    right: 75px;
+    bottom: 40px;
 }
 .name{
     color: white;
-    font-size: 15px;
+    font-size: 12px;
     font-weight: bold;
     position: relative;
-    left: 5px;
-    bottom: 120px;
+    left: 30px;
+    bottom: 100px;
 }
 .position{
     color: white;
     font-size: 15px;
     font-weight: bold;
     position: relative;
-    left: 15px;
-    bottom: 50px;
+    right: 33px;
+    bottom: 18px;
+}
+.number1{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    right: 75px;
+    bottom: 40px;
+}
+.name1{
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    position: relative;
+    left: 35px;
+    bottom: 100px;
+}
+.position1{
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    position: relative;
+    right: 23px;
+    bottom: 14px;
+}
+.number2{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    left: 45px;
+    bottom: 60px;
+}
+.name2{
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    position: relative;
+    left: 20px;
+    bottom: 110px;
+}
+.position2{
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    position: relative;
+    left: 17px;
+    bottom: 40px;
+}
+.number3{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    right: 70px;
+    bottom: 40px;
+}
+.name3{
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    position: relative;
+    right: 100px;
+    bottom: 80px;
+}
+.position3{
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    position: relative;
+    right: 155px;
+    bottom: -5px;
 }
