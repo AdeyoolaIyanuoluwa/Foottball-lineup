@@ -11,9 +11,6 @@
     margin: auto;
     margin-left: 5%;
     padding-top: 20%;
-    /* background-image: url('4567367.jpg');
-    background-repeat: no-repeat;
-    background-size: cover; */
     
 }
 .display{
@@ -24,4 +21,28 @@
 }
 .center{
     margin-left: 35%
+}
+.number{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    position: relative;
+    left: 45px;
+    bottom: 70px;
+}
+.name{
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    position: relative;
+    left: 5px;
+    bottom: 120px;
+}
+.position{
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    position: relative;
+    left: 15px;
+    bottom: 50px;
 }
