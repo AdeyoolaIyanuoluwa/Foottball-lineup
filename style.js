@@ -99,7 +99,7 @@ fifth.innerHTML = `
         <span class = "position2">${player10.position}</span>
    <p>
    `
-var player11 = new Team("David","KEEPER","1")
+var player11 = new Team("David","KEEPER02","1")
 first.innerHTML = `
    <p>
         <img src="j-removebg-preview.png" alt="">
